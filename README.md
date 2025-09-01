@@ -12,7 +12,7 @@
 <h2>📌 Project Overview</h2>
 <p>
 A <b>full-stack e-commerce web application</b> for dairy products, allowing users to browse, search, and filter items efficiently. The project integrates 
-<b>React (frontend)</b>, <b>Spring Boot (backend)</b>, and <b>MySQL (database)</b> to deliver a <b>responsive and scalable shopping experience</b>.
+<b>React (frontend)</b>, <b>Spring Boot (backend)</b>, and <b>MySQL (database)</b> to deliver a <b>responsive Product Cart Page</b>.
 </p>
 
 ---
